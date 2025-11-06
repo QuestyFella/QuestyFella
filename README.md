@@ -54,7 +54,7 @@ I’m **Mohammed Aban Qureshi**, a **Computer Science (B.Comp. Hons)** student a
 - **Machine Learning:** AI applications in sky imaging and celestial identification  
 
 
-> “Understanding is the gateway to discovery.” — R. Feynman
+> “You ask me if an ordinary person—by studying hard—would get to be able to imagine these things like I imagine. Of course! I was an ordinary person who studied hard.” — R. Feynman
 
 
 ### 🤝 Connect With Me
