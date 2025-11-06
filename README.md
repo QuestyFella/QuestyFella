@@ -17,7 +17,6 @@ I’m **Mohammed Aban Qureshi**, a **Computer Science (B.Comp. Hons)** student a
 |----------|--------------|-------------|
 | 🛰 **Ad-Astra** | AI-powered sky recognition app identifying stars using metadata + star charts | Python · TensorFlow · OpenCV · AstroPy |
 | 📡 **CubeSat Ground Station** | SDR-based system for receiving CubeSat & NOAA signals via custom Yagi antennas | C++ · LoRa · SDR · RF Engineering |
-| 👁 **Crowd Detection Network** | MQTT-based ESP32 node network estimating crowd density via Wi-Fi probe requests | ESP32 · MQTT · Python · Pico W |
 
 ---
 
@@ -71,12 +70,6 @@ I’m **Mohammed Aban Qureshi**, a **Computer Science (B.Comp. Hons)** student a
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abanqureshi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuestyFella&theme=github_dark" width="90%"/>
 </p>
 
 ---
