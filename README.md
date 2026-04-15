@@ -48,7 +48,7 @@ I build things across the stack — from bare-metal STM32 firmware to RAG pipeli
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuestyFella&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuestyFella&layout=compact&theme=transparent&hide_border=true" height="165" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=QuestyFella&layout=compact&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=QuestyFella&layout=compact&theme=transparent&hide_border=true&hide=css,html)" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuestyFella&theme=react-dark&hide_border=true&area=true" width="95%"/>
