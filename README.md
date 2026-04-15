@@ -5,6 +5,10 @@
 
 ---
 
+> "And of knowledge, you have been given only a little." — Al-Isra 17:85
+
+---
+
 ### About Me
 
 I'm **Mohammed Aban Qureshi**, a **Computer Science (B.Comp. Hons)** student at the **University of Guelph**.  
@@ -59,9 +63,6 @@ I build things across the stack — from bare-metal STM32 firmware to RAG pipeli
 - LLM safety, RAG systems, and AI applied to real operational problems
 - RF engineering and SDR signal analysis
 
-> "You ask me if an ordinary person—by studying hard—would get to be able to imagine these things like I imagine. Of course! I was an ordinary person who studied hard." — R. Feynman
-
----
 
 ### Connect
 
