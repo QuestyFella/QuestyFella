@@ -1,6 +1,6 @@
 <!-- Typing header animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Mohammed+Aban+Qureshi;Embedded+Systems+%7C+Full-Stack+%7C+ML+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Aban+Qureshi;Embedded+Systems+%7C+Full-Stack+%7C+ML+%26+AI" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 ### About Me
 
-I'm **Mohammed Aban Qureshi**, a **Computer Science (B.Comp. Hons)** student at the **University of Guelph**.  
+I'm **Aban Qureshi**, a **Computer Science (B.Comp. Hons)** student at the **University of Guelph**.  
 Avionics & CubeSat Lead at the UofG Rocketry Club. Full-Stack Developer at Engagement Online Inc.  
 I build things across the stack — from bare-metal STM32 firmware to RAG pipelines to production web infrastructure.
 
