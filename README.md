@@ -47,11 +47,14 @@ I build things across the stack — from bare-metal STM32 firmware to RAG pipeli
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuestyFella&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=QuestyFella&layout=compact&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=QuestyFella&layout=compact&theme=transparent&hide_border=true&hide=css,html)" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuestyFella&theme=github_dark" width="95%" alt="GitHub Contribution Graph" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuestyFella&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuestyFella&theme=github_dark" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuestyFella&theme=github_dark&exclude=css,html" height="165" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QuestyFella&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -73,5 +76,5 @@ I build things across the stack — from bare-metal STM32 firmware to RAG pipeli
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abanqureshi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=QuestyFella&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
