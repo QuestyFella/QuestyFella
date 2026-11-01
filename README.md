@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Aban+Qureshi;System+Architect+%7C+Full-Stack+%7C+ML+%26+AI" alt="Typing SVG" />
 </p>
+
 <img src="koi/koi.gif" width="256" alt="My koi" />
 ---
 
